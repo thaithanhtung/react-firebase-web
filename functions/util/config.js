@@ -1,9 +1,9 @@
 module.exports = {
-  apiKey: "AIzaSyBVorRwdxriy1kMXAyesTbc23fDlXh9NVc",
-  authDomain: "code-backend-demo-firebase.firebaseapp.com",
-  databaseURL: "https://code-backend-demo-firebase.firebaseio.com",
-  projectId: "code-backend-demo-firebase",
-  storageBucket: "code-backend-demo-firebase.appspot.com",
-  messagingSenderId: "488671772047",
-  appId: "1:488671772047:web:dc3cc5fc971b6fef"
+  apiKey: "AIzaSyAjSAF92A3fG86J6Li8Wmyd4yk77nxwZkI",
+  authDomain: "fir-react-demo-web.firebaseapp.com",
+  databaseURL: "https://fir-react-demo-web.firebaseio.com",
+  projectId: "fir-react-demo-web",
+  storageBucket: "fir-react-demo-web.appspot.com",
+  messagingSenderId: "33423936655",
+  appId: "1:33423936655:web:398c7e6ca391cbad"
 };
